@@ -1,0 +1,80 @@
+#home
+{
+  background-image: url("fondo_pag.png");
+  width: 100%,
+}
+
+.section_content_left
+{
+  position: absolute;
+
+    left: 3%;
+    bottom: 22%;
+    margin: -10px 0 0 -15px;
+}
+
+.section_content_right
+{
+  margin-top: 100px;
+}
+
+#cabeza
+{
+  font-size: 15px;
+  line-height: 25px;
+}
+
+#pie
+{
+  background: #000000;
+  text-align: center;
+  color: #FFFFFF;
+}
+#conocer
+{
+  background: #f1f1f1;
+  margin-top: 0px;
+  padding: 30px 0 20px 0;
+  text-align: center;
+}
+
+#nosotros
+{
+text-align:justify;
+}
+
+#valores
+{
+text-align: center;
+}
+
+#neveras
+{
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background: #E2FC00;
+}
+
+#lavadoras
+{
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background: #E2FC00;
+}
+
+#ubicacion
+{
+  background: #F4EDED;
+}
+
+#formulario
+{
+  background: url(../prueba/tornillos.png);
+}
+
+#enviar
+{
+  margin-top: 10px;
+}
